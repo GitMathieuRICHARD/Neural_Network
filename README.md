@@ -1,6 +1,6 @@
 # Neural Network
 
-Here you can see the different projects about neuronal networks.
+Here you can see the different projects about neural networks.
 
 Liste de 500 projetcs ML: https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 
