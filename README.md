@@ -11,3 +11,7 @@ Lien : https://github.com/acl21/Alphabet_Recognition_Gestures
 2) Reconnaissance vocale SVI
 3) Reconnaissance faciale pour la détection de la somnolence pour l'aide à la conduite
 
+4) Modification faciale
+
+https://github.com/Narixius/FaceApp-PHP
+
