@@ -15,3 +15,6 @@ Lien : https://github.com/acl21/Alphabet_Recognition_Gestures
 
 https://github.com/Narixius/FaceApp-PHP
 
+5) Vidéos ML conférence YT
+
+https://github.com/kmario23/deep-learning-drizzle
