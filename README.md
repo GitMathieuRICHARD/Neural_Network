@@ -18,3 +18,6 @@ https://github.com/Narixius/FaceApp-PHP
 5) Vidéos ML conférence YT
 
 https://github.com/kmario23/deep-learning-drizzle
+
+
+6) Faire du scrapping web
